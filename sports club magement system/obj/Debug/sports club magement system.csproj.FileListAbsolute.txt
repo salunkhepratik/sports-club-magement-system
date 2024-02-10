@@ -1,0 +1,116 @@
+D:\sports club magement system\sports club magement system\bin\Debug\sports club magement system.exe.config
+D:\sports club magement system\sports club magement system\obj\Debug\sports club magement system.csprojResolveAssemblyReference.cache
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Equipments.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.EventAllotment.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Events.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Fees.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.login.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.main_form.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Players.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Prize.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Properties.Resources.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Salary.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Schedule.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.TeamAllotment.resources
+D:\sports club magement system\sports club magement system\obj\Debug\sports club magement system.csproj.GenerateResource.Cache
+D:\sports club magement system\sports club magement system\bin\Debug\sports club magement system.exe
+D:\sports club magement system\sports club magement system\bin\Debug\sports club magement system.pdb
+D:\sports club magement system\sports club magement system\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\sports club magement system\sports club magement system\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\sports club magement system\sports club magement system\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\sports club magement system\sports club magement system\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\sports club magement system\sports club magement system\obj\Debug\sports club magement system.exe
+D:\sports club magement system\sports club magement system\obj\Debug\sports club magement system.pdb
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Coach.resources
+D:\sports club magement system\sports club magement system\bin\Debug\SCMS.mdf
+D:\sports club magement system\sports club magement system\bin\Debug\SCMS_log.ldf
+D:\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Sports.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\sports club magement system.exe.config
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports club magement system.exe
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports club magement system.pdb
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\SCMS.mdf
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\SCMS_log.ldf
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\sports club magement system.exe
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\sports club magement system.pdb
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports club magement system.csprojResolveAssemblyReference.cache
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Coach.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Equipments.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.EventAllotment.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Events.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Fees.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Login.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Main_form.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Players.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Prize.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Properties.Resources.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Salary.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Schedule.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Sports.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.TeamAllotment.resources
+C:\Users\This PC\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports club magement system.csproj.GenerateResource.Cache
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\sports club magement system.exe.config
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports club magement system.exe
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports club magement system.pdb
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\SCMS.mdf
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\SCMS_log.ldf
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\sports club magement system.exe
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\sports club magement system.pdb
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports club magement system.csprojResolveAssemblyReference.cache
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Coach.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Equipments.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.EventAllotment.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Events.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Fees.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Login.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Main_form.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Players.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Prize.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Properties.Resources.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Salary.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Schedule.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.Sports.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports_club_magement_system.TeamAllotment.resources
+C:\Users\Asus_Service\OneDrive\Desktop\sports club magement system\sports club magement system\obj\Debug\sports club magement system.csproj.GenerateResource.Cache
+D:\sports club magement system\sports club magement system\bin\Debug\FontAwesomeIcons.dll
+D:\sports club magement system\sports club magement system\bin\Debug\itextsharp.dll
+D:\sports club magement system\sports club magement system\bin\Debug\KWC.BCS.Controls.dll
+D:\sports club magement system\sports club magement system\bin\Debug\KWC.BCS.DAL.dll
+D:\sports club magement system\sports club magement system\bin\Debug\KWC.BCS.Reports.dll
+D:\sports club magement system\sports club magement system\bin\Debug\KWC.BCS.Validations.dll
+D:\sports club magement system\sports club magement system\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\sports club magement system\sports club magement system\bin\Debug\Microsoft.ReportViewer.WinForms.dll

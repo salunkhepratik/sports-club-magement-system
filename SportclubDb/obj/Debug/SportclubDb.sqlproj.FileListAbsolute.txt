@@ -1,0 +1,5 @@
+D:\sports club magement system\SportclubDb\bin\Debug\SportclubDb.dacpac
+D:\sports club magement system\SportclubDb\bin\Debug\SportclubDb.dll
+D:\sports club magement system\SportclubDb\bin\Debug\SportclubDb.pdb
+D:\sports club magement system\SportclubDb\obj\Debug\SportclubDb.dll
+D:\sports club magement system\SportclubDb\obj\Debug\SportclubDb.pdb
